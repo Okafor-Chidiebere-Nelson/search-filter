@@ -30,9 +30,8 @@ const project = [
       business/cooperate society`,
   },
   {
-    title: "Mike Ejeagha",
-    paragraph: ` CEO of Tesla,Space-X,Neura-Link and so many other small scale
-      business/cooperate society`,
+    title: "Nwagboo Chibuike",
+    paragraph: ` Good Mentor and friend of Chidiebere Nelson`,
   },
   {
     title: "Future upcoming entrepreneur",
@@ -40,9 +39,8 @@ const project = [
       business/cooperate society`,
   },
   {
-    title: "Upcoming Aerospace Ent.",
-    paragraph: ` CEO of Nexa space co-operation and so many other small scale
-      business/cooperate society`,
+    title: "Ezenwanne Austine.",
+    paragraph: ` Classmate,friend, e.t.c..`,
   },
   {
     title: "UAI-ENT",
